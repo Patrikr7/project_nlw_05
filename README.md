@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O NLW-Chat é uma aplicação que consiste em melhorar a experiência do usuário através de boa comunicação com o cliente via chat. 
 
-Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, manipulação dos dados, testes automatizados, entre outros.
+Esse projeto foi desenvolvido durante a trilha de NodeJS, na quinta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, manipulação dos dados, testes automatizados, entre outros.
 
 
 ## 🚀 Como executar
