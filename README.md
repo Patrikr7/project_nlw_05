@@ -1,10 +1,8 @@
 # NLW5-Chat
 
-## Rocketseat
-
 <img width="1920" alt="next-level-week" src="./img/next-level-week.png">
 
-<h1 align="center">NLW5-Chat</h1>
+<h1 align="center">NLW5-Chat | Rocketseat</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
