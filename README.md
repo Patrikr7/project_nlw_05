@@ -39,8 +39,8 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🚀 Como executar
 
-- Clone o repositório
-- Instale as dependências com `yarn` ou `npm`
+- Clone o repositório `git clone https://github.com/Patrikr7/project_nlw_05.git`
+- Instale as dependências com `yarn` ou `npm install`
 - Inicie o servidor com `yarn dev` ou `npm run dev`
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
