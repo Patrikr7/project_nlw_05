@@ -2,7 +2,7 @@
 
 ## Rocketseat
 
-<img width="1920" alt="next-level-week" src="img/next-level-week.png">
+<img width="1920" alt="next-level-week" src="./img/next-level-week.png">
 
 <h1 align="center">NLW5-Chat</h1>
 
