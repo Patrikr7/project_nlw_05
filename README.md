@@ -19,14 +19,16 @@
 
 <br>
 
-## ✨ Tecnologias
+## ✨ Tecnologias e Softwares
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e softwares:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/#/)
 - [Websocket](https://www.npmjs.com/package/websocket)
-- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 - [SQlite](https://www.sqlite.org/index.html)
+- [Insomnia](https://insomnia.rest/)
+- [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
 
 ## 💻 Projeto
 
@@ -34,6 +36,9 @@ O NLW-Chat é uma aplicação que consiste em melhorar a experiência do usuári
 
 Esse projeto foi desenvolvido durante a trilha de NodeJS, na quinta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, manipulação dos dados, testes automatizados, entre outros.
 
+## 🔶 Diagrama
+
+<img src="./img/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
